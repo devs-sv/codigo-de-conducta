@@ -8,7 +8,7 @@ En el desafortunado caso que veas a alguien violando el código de conducta, he 
 
 * Hazle saber a un organizador, personalmente o vía correo electrónico.
 * [Mensaje en Facebook en la página de la comunidad](https://www.facebook.com/developers.sv/)
-* Haz un reporte anónimo a travéz de [nuetro formulario](https://docs.google.com/forms/d/e/1FAIpQLSfoHa0ipvpopFysIM4JbUyJ43xZgb3KaF6fObC7NbqpJ7HT2A/viewform)
+* Haz un reporte anónimo a travéz de [nuestro formulario](https://docs.google.com/forms/d/e/1FAIpQLSfoHa0ipvpopFysIM4JbUyJ43xZgb3KaF6fObC7NbqpJ7HT2A/viewform)
 
 ### Organizadores
 * Carlos Moreno (carlos.moreno@developers.sv)
