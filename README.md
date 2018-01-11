@@ -13,9 +13,9 @@ En el desafortunado caso que veas a alguien violando el código de conducta, he 
 ### Organizadores generales
 
 * Carolina Navas ([carolina.navas@developers.sv](mailto:carolina.navas@developers.sv))
-* Carlos Moreno ([carlos.moreno@developers.sv](mailto:carolina.navas@developers.sv))
-* Rodrigo Puente ([rodrigo.puente@developers.sv](mailto:carolina.navas@developers.sv))
-* Ricardo Ramírez ([ricardo.ramirez@developers.sv](mailto:carolina.navas@developers.sv))
+* Carlos Moreno ([carlos.moreno@developers.sv](mailto:carlos.moreno@developers.sv))
+* Rodrigo Puente ([rodrigo.puente@developers.sv](mailto:rodrigo.puente@developers.sv))
+* Ricardo Ramírez ([ricardo.ramirez@developers.sv](mailto:ricardo.ramirez@developers.sv))
 
 _Recuerda que también puedes comunicarte con organizadores y voluntarios en cada comunidad._
 
